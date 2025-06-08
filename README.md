@@ -4,7 +4,8 @@
 
 Dieses Projekt umfasst den vollständigen Entwurf eines **isolierten DC/DC-Wandlers** in **Active Clamp Flyback-Topologie** mit einer Ausgangsleistung von 80 W. Durch den Einsatz einer aktiven Clamping-Schaltung wurde **Zero Voltage Switching (ZVS)** realisiert, wodurch die **Schaltverluste deutlich reduziert** und die **Effizienz verbessert** werden konnte. Der Konverter eignet sich besonders für industrielle Anwendungen mit hohen Anforderungen an Wirkungsgrad und EMV-Verhalten.
 
-![image](https://github.com/user-attachments/assets/3e5d53e7-574b-427a-bab7-d23ec5e509e0)
+![image](https://github.com/user-attachments/assets/1c9412f3-065e-44c8-8128-3e2888b207fb)
+
 
 ---
 
