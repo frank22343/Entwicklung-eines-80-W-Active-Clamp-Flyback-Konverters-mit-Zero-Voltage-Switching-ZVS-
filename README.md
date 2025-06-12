@@ -24,6 +24,9 @@ Dieses Projekt umfasst den vollständigen Entwurf eines **isolierten DC/DC-Wandl
 * **Ziel:** Hohe Effizienz, geringe EMV, kompakte Bauweise
 ---
 
+![PCB70](https://github.com/user-attachments/assets/8c515a5e-1a96-46ff-ad0b-97bbe0755eed)
+## 70% Fertige Pcb Board ....(im Laufe!!)
+
 ## Ziel und Lernerfolg
 
 * Verständnis und Anwendung der **Active Clamp-Technik zur Energie-Rückgewinnung** und ZVS
