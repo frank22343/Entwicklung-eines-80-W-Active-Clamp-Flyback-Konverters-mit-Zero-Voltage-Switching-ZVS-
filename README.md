@@ -6,7 +6,6 @@ Dieses Projekt umfasst den vollständigen Entwurf eines **isolierten DC/DC-Wandl
 
 ![image](https://github.com/user-attachments/assets/1c9412f3-065e-44c8-8128-3e2888b207fb)
 
-
 ---
 
 ## Technische Merkmale
@@ -24,8 +23,11 @@ Dieses Projekt umfasst den vollständigen Entwurf eines **isolierten DC/DC-Wandl
 * **Ziel:** Hohe Effizienz, geringe EMV, kompakte Bauweise
 ---
 
-![PCB70](https://github.com/user-attachments/assets/8c515a5e-1a96-46ff-ad0b-97bbe0755eed)
-## 70% Fertige Pcb Board ....(im Laufe!!)
+![25](https://github.com/user-attachments/assets/d222f884-ba0a-4eeb-8431-4fc5efd23c81)
+
+![Screenshot 2025-06-15 190915](https://github.com/user-attachments/assets/b0e20f8b-ed87-4f29-8e08-d5c1681b9986)
+
+![26](https://github.com/user-attachments/assets/7488c4c7-f9c5-489a-ad4f-e0a22a38d88f)
 
 ## Ziel und Lernerfolg
 
